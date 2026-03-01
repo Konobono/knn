@@ -10,7 +10,7 @@ This implementation does **not** rely on high-level machine learning libraries (
 
 - The dataset used is stored in `vine_final.csv`.  
 - Each row represents one instance with numerical features and a target label in the last column.  
-- The data is first shuffled and then split into **training (60%)**, **validation (20%)**, and **testing (20%)** subsets. :contentReference[oaicite:3]{index=3}
+- The data is first shuffled and then split into **training (60%)**, **validation (20%)**, and **testing (20%)** subsets.
 
 ## 🧪 Requirements
 
